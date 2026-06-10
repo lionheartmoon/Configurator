@@ -1,0 +1,30 @@
+{
+  "devices": [
+    {
+      "name": "name",
+      "ip": "127.0.0.1",
+      "port": 8080,
+      "deviceId": "device1",
+      "tags": [
+        {
+          "name": "tag1",
+          "invent": "invent1", // необязательно поле
+          "serial": "serial1", // необязательно поле
+          "address": "address1",
+          "register": "HOLDING_REGISTERS",
+          "type": "INT16",
+          "byteOrder": null
+        },
+        {
+          "name": "tag2",
+          "invent": "invent2", // необязательно поле
+          "serial": "serial2", // необязательно поле
+          "address": "address2",
+          "register": "INPUT_REGISTERS",
+          "type": "FLOAT32",
+          "byteOrder": "AB"
+        }
+      ]
+    }
+  ]
+}

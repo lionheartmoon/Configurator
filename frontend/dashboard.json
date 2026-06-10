@@ -1,0 +1,23 @@
+// once in a minute
+{
+  "name": "Module_d843ae2239fb",
+  "devices": 6,
+  "active": 0,
+  "unactive": 0,
+  "packages": 3314,
+  "time": "2026-04-21T07:26:03.000Z",
+  "serverIP": "0.0.0.0",
+  "serverStatus": "offline" // online, offline
+}
+
+// ws
+{
+    "events": [
+        {
+            "time": "2026-04-21T07:28:00.000Z",
+            "service": "name",
+            "status": "INFO", // "INFO", "WARNING", "ERROR"
+            "message": "text",
+        }
+    ]
+}

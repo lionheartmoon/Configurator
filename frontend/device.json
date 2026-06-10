@@ -1,0 +1,26 @@
+// GET
+
+{
+  "name": "Робот_1",
+  "ip": "172.16.127.56",
+  "port": 8010,
+  "deviceId": "robot_1",
+  "protocol": "modbus_tcp",
+  "running": true,
+  "lastUpdate": "2026-04-26T07:07:07.007Z"
+}
+
+// WS
+
+{
+    "tags": [
+        {
+            "name": "Robot 1",
+            "value": 2,
+        },
+        {
+            "name": "Robot 2",
+            "value": 374,
+        }
+    ]
+}

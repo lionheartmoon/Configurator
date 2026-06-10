@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# Compiled binary
+go_build_Configurator.exe
+*.exe
+*.exe~
+
+# Если frontend — собранная статика (например, от Webpack), возможно, тоже исключить:
+# frontend/dist/
+# frontend/node_modules/

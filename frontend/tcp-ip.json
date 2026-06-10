@@ -1,0 +1,20 @@
+{
+  "lan": {
+    "mode": "DHCP", // DHCP or STATIC
+    "ip": "172.16.0.104",
+    "mask": "255.255.255.0",
+    "gateway": "172.16.0.1",
+    "mainDNS": "127.0.0.53",
+    "alterDNS": null
+  },
+  "wi-fi": {
+    "name": null,
+    "password": null,
+    "mode": "DHCP",
+    "ip": "172.16.0.104",
+    "mask": "255.255.255.0",
+    "gateway": "172.16.0.1",
+    "mainDNS": "127.0.0.53",
+    "alterDNS": null
+  }
+}
