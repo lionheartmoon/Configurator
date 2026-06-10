@@ -11,7 +11,7 @@ import (
 	"strings"
 )
 
-//go:embed build/*
+//go:embed frontend/build/*
 var distFS embed.FS
 
 func main() {
